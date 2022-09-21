@@ -8,7 +8,7 @@ This is the code for the windows HID button box in the style of Star Citizen DRA
 The original design was by HANNAHB888 you can find her original artwork for this box as well as other work she's done at https://www.reddit.com/r/starcitizen/comments/hph00n/drake_interplanetary_smartkey_thing_that_i_made/
 
 This box is the second design based off of her original artwork, and turned into a functional model, and code.
-You can find the 3D printable files over at Cults: https://cults3d.com/en/3d-model/tool/star-citizen-drake-button-box
+You can find the 3D printable files over at Cults: https://www.reddit.com/r/starcitizen/comments/xkcxmy/version_2_of_my_button_box/
 
 The box uses an Arduino pro micro, and while there is no wiring schematic, the following should be quite straight forward.
 All pins are labled as to what they connect to. All buttons and switches are GPIO to ground.
