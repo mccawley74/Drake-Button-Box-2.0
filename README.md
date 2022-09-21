@@ -93,4 +93,4 @@ const OLEDMENU switchMenu[4] PROGMEM = {
 ```
 <em>Feel free to edit and modify the structures to suit your specific mapping in Star Citizen </em>
 
-## That's about it. Have fun and feel free to change up the code as you see fit. Have fun.
+### That's about it. Have fun and feel free to change up the code as you see fit. Have fun.
