@@ -2,7 +2,11 @@
 ## Drake button box 2.0
 See the original button box at: https://github.com/mccawley74/DRAKE
 
+### 3D Model of the finished box
 ![Button Box](images/3d_file.png)
+
+### Printed and assembled box
+![Button Box](images/box.png)
 
 This is the code for the windows HID button box in the style of Star Citizen DRAKE design.
 The original design was by HANNAHB888 you can find her original artwork for this box as well as other work she's done at https://www.reddit.com/r/starcitizen/comments/hph00n/drake_interplanetary_smartkey_thing_that_i_made/
