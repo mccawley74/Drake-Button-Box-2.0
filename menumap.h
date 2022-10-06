@@ -28,6 +28,12 @@ typedef struct OLEDMENU {
 // https://www.arduino.cc/reference/en/language/functions/usb/keyboard/keyboardmodifiers/
 //
 // Below structs hold the string to display on the OLED screen, and the corrisponding key to press
+//
+// To change the text be sure that the struct has the correct array size.
+// In the first struct below "buttonMenu" the array size is "2" as buttonMenu[2] <-- 2 here
+// As the struct holds two string/key pairs. "STARTUP" and "FLIGHT".
+// If you add additional text and key mappings you will need to adjust the array size.
+// Also watch the comma seperating each. The last item needs not a comma, but okay if it's there.
 
 // [Button small red] Flight ready
 const OLEDMENU buttonMenu[2] PROGMEM = {
