@@ -188,7 +188,7 @@ void read_drake_switch(int polltime)
     press_keyboard_key(menuSRAM.keyId);
     oled_write(String(menuSRAM.name));
   }
-  if (b_sw_6.changed()) {
+  if (b_sw_6.fell()) {
     memcpy_P( &menuSRAM, &switchMenu[3], sizeof(OLEDMENU));
     press_keyboard_key(menuSRAM.keyId);
     oled_write(String(menuSRAM.name));
