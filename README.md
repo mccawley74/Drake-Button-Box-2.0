@@ -1,5 +1,4 @@
-# DRAKE
-## Drake button box 2.0
+# Drake button box 2.0
 See the original button box at: https://github.com/mccawley74/DRAKE
 
 ### 3D Model of the finished box
